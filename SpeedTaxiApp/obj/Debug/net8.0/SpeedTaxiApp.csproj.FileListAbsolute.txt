@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\SpeedTaxiApp\bin\Debug\net8.0\SpeedTaxiApp.exe
+C:\Users\Acer\source\repos\SpeedTaxiApp\bin\Debug\net8.0\SpeedTaxiApp.deps.json
+C:\Users\Acer\source\repos\SpeedTaxiApp\bin\Debug\net8.0\SpeedTaxiApp.runtimeconfig.json
+C:\Users\Acer\source\repos\SpeedTaxiApp\bin\Debug\net8.0\SpeedTaxiApp.dll
+C:\Users\Acer\source\repos\SpeedTaxiApp\bin\Debug\net8.0\SpeedTaxiApp.pdb
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\SpeedTaxiApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\SpeedTaxiApp.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\SpeedTaxiApp.AssemblyInfo.cs
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\SpeedTaxiApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\SpeedTaxiApp.dll
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\refint\SpeedTaxiApp.dll
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\SpeedTaxiApp.pdb
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\SpeedTaxiApp.genruntimeconfig.cache
+C:\Users\Acer\source\repos\SpeedTaxiApp\obj\Debug\net8.0\ref\SpeedTaxiApp.dll
